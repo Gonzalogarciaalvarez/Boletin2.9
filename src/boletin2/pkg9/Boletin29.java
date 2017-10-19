@@ -30,6 +30,8 @@ public class Boletin29 {
         System.out.println(V+" billetes de 20");
         System.out.println(S+" billetes de 5");
         System.out.println(N+" monedas de 1");
+        //Gon is a fag
+        System.out.println("Gon is a fag");
     }
     
 }
