@@ -32,6 +32,8 @@ public class Boletin29 {
         System.out.println(N+" monedas de 1");
         //Gon is a fag
         System.out.println("Gon is a fag");
+        //Commit Joshua
+        System.out.println("Ahora si");
     }
     
 }
